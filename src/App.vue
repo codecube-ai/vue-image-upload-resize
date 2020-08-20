@@ -41,7 +41,6 @@ export default {
     setImage: function(output) {
       this.hasImage = true
       this.image = output
-      console.log(output)
     },
   },
 }
